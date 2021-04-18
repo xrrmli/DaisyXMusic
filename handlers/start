@@ -14,7 +14,7 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "📜 User Manual 📜", url="https://telegra.ph/Bemro-VC-Plus-04-09")
+                        "📜 User Manual 📜", url="https://telegra.ph/Ramli-Musik-Bot-04-18-2")
                   ],[
                     InlineKeyboardButton(
                         "👨‍💻 Updates 👨‍💻", url="https://t.me/daisyxupdates"
